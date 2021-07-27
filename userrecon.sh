@@ -1,6 +1,6 @@
 #!/bin/bash
 # UserRecon v1.1
-# Author: cyber kallan
+# Author: 3 RAY MECHS
 # https://github.com/3RAYMECHS/userrecon
 # Give me the credits if you use any part of this code, read the License.
 
